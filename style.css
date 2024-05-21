@@ -1,0 +1,9 @@
+#card-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 25px;
+}
+
+#card-container-cart {
+    margin: 10px 20px;
+}
